@@ -1,14 +1,13 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm KEVIN CONTRERAS    
+<a href="https://linkedin.com/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate and dedicated IT leader with a strong background in cybersecurity and project
+management. Skilled in leveraging technology to drive positive impact, conducting penetration
+testing, and implementing security protocols. Proficient in strategic planning, team collaboration,
+and scalable project delivery.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I aim to apply my skills in penetration testing, security frameworks, and DevSecOps to protect organizations from digital threats. My goal is to continue growing in the field while contributing to impactful, mission-driven teams focused on secure, scalable solutions.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
