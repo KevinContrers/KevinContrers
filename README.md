@@ -10,7 +10,7 @@ and scalable project delivery.
 I aim to apply my skills in penetration testing, security frameworks, and DevSecOps to protect organizations from digital threats. My goal is to continue growing in the field while contributing to impactful, mission-driven teams focused on secure, scalable solutions.
 
 ## Projects
--  VulnHub ICA:1
+- <a href="hhtp://github.com/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
 - SOC Automation Project
 
 ## Skills
