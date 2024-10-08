@@ -10,9 +10,9 @@ and scalable project delivery.
 I aim to apply my skills in penetration testing, security frameworks, and DevSecOps to protect organizations from digital threats. My goal is to continue growing in the field while contributing to impactful, mission-driven teams focused on secure, scalable solutions.
 
 ## Projects
-- <a href="https://github.com/Kevco13/Google-Cybersecurity">Google Cybersecurity Professional Certificate</a>
-- <a href="https://github.com/Kevco13/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
-- <a href="https://github.com/Kevco13/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
+- <a href="https://github.com/KevinContrers/Google-Cybersecurity">Google Cybersecurity Professional Certificate</a>
+- <a href="https://github.com/KevinContrers/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
+- <a href="https://github.com/KevinContrers/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
 
 
 # Skills Overview
