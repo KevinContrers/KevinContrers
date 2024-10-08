@@ -1,5 +1,5 @@
 # Hello, I'm KEVIN CONTRERAS    
-<a href="https://linkedin.com/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Passionate and dedicated IT leader with a strong background in cybersecurity and project
 management. Skilled in leveraging technology to drive positive impact, conducting penetration
