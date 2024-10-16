@@ -1,6 +1,10 @@
-# Hello, I'm KEVIN CONTRERAS    
-<a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm KEVIN CONTRERAS   
 
+##Connect With me
+<a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+##I am
 Passionate and dedicated IT leader with a strong background in cybersecurity and project
 management. Skilled in leveraging technology to drive positive impact, conducting penetration
 testing, and implementing security protocols. Proficient in strategic planning, team collaboration,
