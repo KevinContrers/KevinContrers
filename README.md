@@ -10,20 +10,14 @@ IT Project Manager with a focus on Cybersecurity
 <a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Experienced IT leader with a strong foundation in cybersecurity and project management. I have hands-on experience in penetration
-testing, vulnerability assessment, and implementing advanced security protocols.
-I began my career in project management, leading technology projects and fostering effective collaboration. Over time, I transitioned to
-a CTO role, taking on strategic planning and team leadership. In the past five years, I have driven initiatives that significantly improved
-organizational security.
-
-
-## Objective
-I aim to apply my skills in penetration testing, security frameworks, and DevSecOps to protect organizations from digital threats. My goal is to continue growing in the field while contributing to impactful, mission-driven teams focused on secure, scalable solutions.
 
 ## Projects
 - <a href="https://github.com/KevinContrers/Google-Cybersecurity">Google Cybersecurity Professional Certificate</a>
 - <a href="https://github.com/KevinContrers/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
 - <a href="https://github.com/KevinContrers/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
+
+Experienced IT leader with a strong foundation in cybersecurity and project management, proficient in penetration testing, vulnerability assessments, and implementing advanced security protocols. 
+I began my career leading technology projects and fostering cross-functional collaboration in project management. Over time, I transitioned to a CTO role, taking on strategic planning and leading a team of 20 professionals. Over the past five years, I have successfully driven initiatives that improved organizational security by at least 20%, while enhancing operational efficiency. 
 
 
 # Skills Overview
