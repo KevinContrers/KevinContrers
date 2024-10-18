@@ -8,7 +8,7 @@
 
 
 
-## Projects
+## Cyber Security Projects and Certifications
 - <a href="https://github.com/KevinContrers/Google-Cybersecurity">Google Cybersecurity Professional Certificate</a>
 - <a href="https://github.com/KevinContrers/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
 - <a href="https://github.com/KevinContrers/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
