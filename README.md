@@ -1,23 +1,17 @@
-# Hello, I'm KEVIN CONTRERAS   
-IT Project Manager with a focus on Cybersecurity
-- <mark> <a href="https://github.com/KevinContrers/AITU">AI TEACH U</a></mark>
+# Hello, I'm KEVIN CONTRERAS  <a href="https://wa.me/50361805797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+### IT Project Manager with a focus on Cybersecurity
+- <mark> <a href="https://github.com/KevinContrers/AITU">My Experience @ AI TEACH U</a></mark>
 
 ## 
 
-
-### Connect With me
-<a href="https://wa.me/50361805797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ## Projects
 - <a href="https://github.com/KevinContrers/Google-Cybersecurity">Google Cybersecurity Professional Certificate</a>
 - <a href="https://github.com/KevinContrers/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
 - <a href="https://github.com/KevinContrers/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
-
-Experienced IT leader with a strong foundation in cybersecurity and project management, proficient in penetration testing, vulnerability assessments, and implementing advanced security protocols. 
-I began my career leading technology projects and fostering cross-functional collaboration in project management. Over time, I transitioned to a CTO role, taking on strategic planning and leading a team of 20 professionals. Over the past five years, I have successfully driven initiatives that improved organizational security by at least 20%, while enhancing operational efficiency. 
 
 
 # Skills Overview
