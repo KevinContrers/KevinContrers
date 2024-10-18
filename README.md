@@ -1,4 +1,9 @@
 # Hello, I'm KEVIN CONTRERAS   
+IT Project Manager with a focus on Cybersecurity
+- <mark> <a href="https://github.com/KevinContrers/AITU">AI TEACH U</a></mark>
+
+## 
+
 
 ### Connect With me
 <a href="https://wa.me/50361805797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
