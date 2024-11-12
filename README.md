@@ -1,5 +1,4 @@
-# Hello, I'm KEVIN CONTRERAS  <a href="https://wa.me/50361805797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://tryhackme.com/p/3666982">  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3666982" alt="TryHackMe Badge" style="width:150px; height:auto;" />
-</a>
+# Hello, I'm KEVIN CONTRERAS  <a href="https://wa.me/50361805797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/kevco92"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:contrerascamposkevin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://tryhackme.com/r/p/Kevinco">  <img src="https://tryhackme-badges.s3.amazonaws.com/Kevinco.png" alt="Your Image Badge" /> </a>
 
 
 
