@@ -17,7 +17,7 @@
 - <a href="https://github.com/KevinContrers/VulnHub-Web-Machine-N7">VulnHub Web Machine N7 (Virtual Box)</a>
 - <a href="https://github.com/KevinContrers/VulnHub-ICA-1">Vulnhub ICA: 1 (Virtual Box)</a>
 - [Check out my TryHackMe Badge!](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3666982)
-<a href="https://tryhackme.com/r/p/Kevinco">  <img src="https://tryhackme-badges.s3.amazonaws.com/Kevinco.png" alt="Your Image Badge" /> </a>
+- <a href="https://tryhackme.com/r/p/Kevinco">  <img src="https://tryhackme-badges.s3.amazonaws.com/Kevinco.png" alt="Your Image Badge" /> </a>
 
 
 # Skills Overview
